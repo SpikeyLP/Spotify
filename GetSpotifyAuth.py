@@ -1,7 +1,6 @@
 import requests
 import webbrowser
 import urllib.parse
-import json
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 # Spotify App Credentials
